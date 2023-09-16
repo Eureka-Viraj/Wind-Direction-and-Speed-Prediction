@@ -1,6 +1,5 @@
 # Wind Speed and Wind Direction Prediction Project
 
-![Wind Turbines](wind_turbines.jpg)
 
 ## Introduction
 
@@ -80,6 +79,3 @@ Contributions to this project are welcome. You can contribute by:
 - Adding more algorithms.
 - Creating a user-friendly web interface.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
